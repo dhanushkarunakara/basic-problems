@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[I display your moods and status]]>
+    </line>
+    <line>
+      <![CDATA[I display your moods and status]]>
+    </line>
+    <line>
+      <![CDATA[I display your moods and status]]>
+    </line>
+    <line>
+      <![CDATA[I can make calls]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26" started-at="2022-06-06T07:31:01Z" finished-at="2022-06-06T07:31:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26" started-at="2022-06-06T07:31:01Z" finished-at="2022-06-06T07:31:01Z">
+      <class name="testNg.Priority">
+        <test-method status="PASS" signature="whatsAppStatus()[pri:2, instance:testNg.Priority@4520ebad]" name="whatsAppStatus" duration-ms="15" started-at="2022-06-06T13:01:01Z" finished-at="2022-06-06T13:01:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[I display your moods and status]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- whatsAppStatus -->
+        <test-method status="PASS" signature="whatsAppStatus()[pri:2, instance:testNg.Priority@4520ebad]" name="whatsAppStatus" duration-ms="0" started-at="2022-06-06T13:01:01Z" finished-at="2022-06-06T13:01:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[I display your moods and status]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- whatsAppStatus -->
+        <test-method status="PASS" signature="AhatsAppCall()[pri:3, instance:testNg.Priority@4520ebad]" name="AhatsAppCall" duration-ms="11" started-at="2022-06-06T13:01:01Z" finished-at="2022-06-06T13:01:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[I can make calls]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AhatsAppCall -->
+        <test-method status="PASS" signature="whatsAppStatus()[pri:2, instance:testNg.Priority@4520ebad]" name="whatsAppStatus" duration-ms="0" started-at="2022-06-06T13:01:01Z" finished-at="2022-06-06T13:01:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[I display your moods and status]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- whatsAppStatus -->
+      </class> <!-- testNg.Priority -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
